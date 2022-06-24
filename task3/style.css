@@ -1,0 +1,16 @@
+.input {
+    border-radius: 100px;
+    border: 2px solid green;
+    padding-left: 70px;
+    width: 70%;
+    margin-top: 25px;
+}
+
+.head-text {
+    color: blueviolet;
+}
+
+.form {
+    margin-top: 50px;
+    background-color: lightgrey;
+}
